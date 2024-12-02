@@ -1,4 +1,4 @@
-# Practice-in-Machine-Learning
+# Machine-Learning-in-Python
 Collection of exercises using machine learning (Python - ScikitLearn) to make predictions using large datasets
 
   # Data Understanding and Preparation in Python
